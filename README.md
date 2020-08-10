@@ -16,7 +16,7 @@ Here is what the new z-axis looks like.  A 500[mm] long actuator was intially us
 #### Pros
 * router moves repeatably and accurately in the z-direction
 * router no longer shifts in the x and y-directions when moving in the z-direction
-* router now moves 4x faster in the z-direction
+* router now moves about 2.5x faster in the z-direction
 
 #### Cons
 * cost ~$150
@@ -47,6 +47,7 @@ The CAD data supplied can be opened with [FreeCAD V0.19](https://www.freecadweb.
 #### Notes:
 * The shaft coupler supplied with the actuator kit will work with the Z-axis motor
 * Effective pitch of the new lead screw is 8[mm] (2mm pitch x 4 starts)
+* I use [WebControl](https://github.com/WebControlCNC/WebControl) and calibrate via the ['holey calibration'](https://webcontrolcnc.github.io/WebControl/Actions/Calibration-Setup/holeyCalibration.html) method
 
 
 #### To do:
