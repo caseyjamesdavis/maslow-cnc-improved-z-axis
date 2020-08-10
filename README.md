@@ -6,11 +6,15 @@ This is what the original z-axis looks like.  It uses the manual height adjustme
 
 ![](maslow_z_axis_stock.png)
 
-\
+<br/>
+<br/>
 
 I decided to use the OPENBUILDS [250mm C-Beam Linear Actuator](https://openbuildspartstore.com/c-beam-linear-actuator-bundle/) as the basis for the new Z-axis.  There is no need to purchase the stepper motor as it will not work with the Maslow.
 
 ![](openbuilds_c_frame_actuator.png)
+
+<br/>
+<br/>
 
 Here is what the new z-axis looks like.  A 500[mm] long actuator was intially used because there were not any 250[mm] models available.
 
@@ -27,20 +31,22 @@ Here is what the new z-axis looks like.  A 500[mm] long actuator was intially us
 * initial alignment
 * dust collection
 
+<br/>
+<br/>
 
 Below are the three main pieces that need to be 3D printed.  
  
-**Router Clamp** - this connects the Rigid R2911 router to the carriage of the linear actuator
+**Router Clamp** - shown in blue, connects the Rigid R2911 router to the carriage of the linear actuator
 
 ![](maslow_z_axis_router_clamp.png)
 
 
-**Motor Mount** - this connects the existing Z-axis motor to the linear actuator 
+**Motor Mount** - shown in 'green', connects the existing Z-axis motor to the linear actuator 
 
 ![](maslow_z_axis_motor_mount.png)
 
 
-**Brace** - this helps keep the z-axis perpendicular to the board 
+**Brace** - shown in teal, helps keep the z-axis perpendicular to the board 
 
 ![](maslow_z_axis_brace.png)
 
@@ -48,11 +54,13 @@ One will also need to print about 20 of these [M3 T-nuts](https://www.thingivers
 
 The CAD data supplied can be opened with [FreeCAD V0.19](https://www.freecadweb.org/) and the fantastic [Assembly 4 Workbench](https://github.com/Zolko-123/FreeCAD_Assembly4).
 
+<br/>
+<br/>
+
 #### Notes:
 * The shaft coupler supplied with the actuator kit will work with the Z-axis motor
 * Effective pitch of the new lead screw is 8[mm] (2mm pitch x 4 starts)
 * I use [WebControl](https://github.com/WebControlCNC/WebControl) and calibrate via the ['holey calibration'](https://webcontrolcnc.github.io/WebControl/Actions/Calibration-Setup/holeyCalibration.html) method
-
 
 #### To do:
 * Add dust collection panels
