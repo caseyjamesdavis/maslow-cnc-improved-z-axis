@@ -6,6 +6,8 @@ This is what the original z-axis looks like.  It uses the manual height adjustme
 
 ![](maslow_z_axis_stock.png)
 
+\
+
 I decided to use the OPENBUILDS [250mm C-Beam Linear Actuator](https://openbuildspartstore.com/c-beam-linear-actuator-bundle/) as the basis for the new Z-axis.  There is no need to purchase the stepper motor as it will not work with the Maslow.
 
 ![](openbuilds_c_frame_actuator.png)
