@@ -32,11 +32,12 @@ Below are the three main pieces that need to be 3D printed.
 
 ![](maslow_z_axis_brace.png)
 
-
+One will also need to print about 10 of these [M3 T-nuts](https://www.thingiverse.com/thing:1064782).  The M3 T-nut STL is included in this repo for completeness.
 
 The CAD data supplied can be opened with [FreeCAD V0.19](https://www.freecadweb.org/) and the fantastic [Assembly 4 Workbench](https://github.com/Zolko-123/FreeCAD_Assembly4).
 
 #### Notes:
+* The shaft coupler supplied with the actuator kit will work with the Z-axis motor
 * Effective pitch of the new lead screw is 8[mm] (2mm pitch x 4 starts)
 
 
