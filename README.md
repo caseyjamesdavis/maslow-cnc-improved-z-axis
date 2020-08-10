@@ -22,19 +22,19 @@ Here is what the new z-axis looks like.  A 500[mm] long actuator was intially us
 
 
 #### Pros
-* router moves repeatably and accurately in the z-direction
-* router no longer shifts in the x and y-directions when moving in the z-direction
-* router now moves about 2.5x faster in the z-direction
+* Router moves repeatably and accurately in the z-direction
+* Router no longer shifts in the x and y-directions when moving in the z-direction
+* Router now moves about 2.5x faster in the z-direction
 
 #### Cons
-* cost ~$150
-* initial alignment
-* dust collection
+* High cost relative to kit (~$150)
+* Initial alignment
+* Complicates dust collection
 
 <br/>
 <br/>
 
-Below are the three main pieces that need to be 3D printed.  
+Below are the three main components that need to be 3D printed.  
  
 **Router Clamp** - shown in blue, connects the Rigid R2911 router to the carriage of the linear actuator
 
@@ -64,4 +64,4 @@ The CAD data supplied can be opened with [FreeCAD V0.19](https://www.freecadweb.
 
 #### To do:
 * Add dust collection panels
-* trim actuator to more reasonable length (TBD)
+* Trim actuator to more reasonable length (TBD)
