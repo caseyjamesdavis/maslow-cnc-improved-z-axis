@@ -37,7 +37,7 @@ I decided to use the OPENBUILDS [250mm C-Beam Linear Actuator](https://openbuild
 
 Below are the three main components that need to be 3D printed.  
  
-**Router Clamp** - shown in blue, connects the Rigid R2911 router to the carriage of the linear actuator
+**Router Clamp** - shown in blue, connects the Rigid R2901 router to the carriage of the linear actuator
 
 ![](maslow_z_axis_router_clamp.png)
 
