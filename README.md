@@ -1,6 +1,8 @@
 ### This repo details my efforts towards improving the Z-axis of a [Maslow CNC Machine](https://www.maslowcnc.com/)
 
-I purchased my Maslow kit from [MAKER MADE](https://makermade.com/).  
+I purchased my Maslow kit from [MAKER MADE](https://makermade.com/).  This is what the original z-axis looks like.
+
+![](maslow_z_axis_stock.jpg)
 
 I decided to use the OPENBUILDS [250mm C-Beam Linear Actuator](https://openbuildspartstore.com/c-beam-linear-actuator-bundle/) as the basis for my Z-axis.  There is no need to purchase the stepper motor as it will not work with the Maslow.
 
