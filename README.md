@@ -2,15 +2,23 @@
 
 I purchased my Maslow kit from [MAKER MADE](https://makermade.com/).  
 
-I decided to use the OPENBUILDS [C-Beam Linear Actuator](https://openbuildspartstore.com/c-beam-linear-actuator-bundle/) as the basis for my Z-axis.  There is no need to purchase the stepper motor as it will not work with the Maslow.
+I decided to use the OPENBUILDS [250mm C-Beam Linear Actuator](https://openbuildspartstore.com/c-beam-linear-actuator-bundle/) as the basis for my Z-axis.  There is no need to purchase the stepper motor as it will not work with the Maslow.
 
-This only works with the Rigid R2911 router.
+
+#### Pros
+* router moves repeatably and accurately in the Z-direction
+* router doesn't shift in the x and y-directions when moving in the z-direction
+* router moves faster in the z-direction
+
+#### Cons
+* cost ~$150
+* alignment
+* dust collection
+
 
 Below are the three main pieces that need to be 3D printed.  
  
-
-
-**Router Clamp** - this connects the router to the carriage of the linear actuator
+**Router Clamp** - this connects the Rigid R2911 router to the carriage of the linear actuator
 
 ![](maslow_z_axis_router_clamp.png)
 
@@ -26,12 +34,12 @@ Below are the three main pieces that need to be 3D printed.
 
 
 
-The CAD data supplied can be opened with FreeCAD V0.19 and the Assembly 4 Workbench.
+The CAD data supplied can be opened with [FreeCAD V0.19](https://www.freecadweb.org/) and the fantastic [Assembly 4 Workbench](https://github.com/Zolko-123/FreeCAD_Assembly4).
 
-Notes:
+#### Notes:
 * Effective pitch of the new lead screw is 8[mm] (2mm pitch x 4 starts)
 
 
-To do:
+#### To do:
 * Add dust collection panels
-* trim actual to more reasonable length
+* trim actuator to more reasonable length (TBD)
