@@ -1,5 +1,22 @@
 ### This repo details my efforts towards improving the Z-axis of a [Maslow CNC Machine](https://www.maslowcnc.com/)
 
+![](maslow_z_axis_improved.png)
+
+ *Note: A 500[mm] long actuator was intially used because there were not any 250[mm] models available.*
+
+#### Pros
+* Router moves repeatably and accurately in the z-direction
+* Router no longer shifts in the x and y-directions when moving in the z-direction
+* Router now moves about 2.5x faster in the z-direction
+
+#### Cons
+* High cost relative to kit (~$150)
+* Initial alignment
+* Complicates dust collection
+
+<br/>
+<br/>
+
 I purchased my Maslow kit from [MAKER MADE](https://makermade.com/).  The kit is well made, well documented and is a breeze to setup.  The only complaint I had with the system was the sloppy z-axis.  
 
 This is what the original z-axis looks like.  It uses the manual height adjustment mechanism of the router holder for moving the router and bit in and out of the wood. This is a well known issue and has been fixed in recent M2 versions of the kit.
@@ -16,23 +33,7 @@ I decided to use the OPENBUILDS [250mm C-Beam Linear Actuator](https://openbuild
 <br/>
 <br/>
 
-Here is what the new z-axis looks like.  A 500[mm] long actuator was intially used because there were not any 250[mm] models available.
 
-![](maslow_z_axis_improved.png)
-
-
-#### Pros
-* Router moves repeatably and accurately in the z-direction
-* Router no longer shifts in the x and y-directions when moving in the z-direction
-* Router now moves about 2.5x faster in the z-direction
-
-#### Cons
-* High cost relative to kit (~$150)
-* Initial alignment
-* Complicates dust collection
-
-<br/>
-<br/>
 
 Below are the three main components that need to be 3D printed.  
  
