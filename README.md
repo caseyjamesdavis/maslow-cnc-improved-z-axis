@@ -2,17 +2,21 @@
 
 I purchased my Maslow kit from [MAKER MADE](https://makermade.com/).  This is what the original z-axis looks like.
 
-![](maslow_z_axis_stock.jpg)
+![](maslow_z_axis_stock.png)
 
 I decided to use the OPENBUILDS [250mm C-Beam Linear Actuator](https://openbuildspartstore.com/c-beam-linear-actuator-bundle/) as the basis for my Z-axis.  There is no need to purchase the stepper motor as it will not work with the Maslow.
 
 ![](openbuilds_c_frame_actuator.png)
 
+Here is what the new z-axis looks like.
+
+![](maslow_z_axis_improved.png)
+
 
 #### Pros
 * router moves repeatably and accurately in the Z-direction
-* router doesn't shift in the x and y-directions when moving in the z-direction
-* router moves faster in the z-direction
+* router no longer shifts in the x and y-directions when moving in the z-direction
+* router now moves 4x faster in the z-direction
 
 #### Cons
 * cost ~$150
