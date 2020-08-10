@@ -1,6 +1,8 @@
 ### This repo details my efforts towards improving the Z-axis of a [Maslow CNC Machine](https://www.maslowcnc.com/)
 
-I purchased my Maslow kit from [MAKER MADE](https://makermade.com/).  This is what the original z-axis looks like.  It uses the manual height adjustment mechanism of the router holder for moving the bit in and out of the wood.
+I purchased my Maslow kit from [MAKER MADE](https://makermade.com/).  The kit is well made, well documented and is a breeze to setup.  The only complaint I had with the system was the sloppy z-axis.  
+
+This is what the original z-axis looks like.  It uses the manual height adjustment mechanism of the router holder for moving the router and bit in and out of the wood. This is a well known issue and has been fixed in recent M2 versions of the kit.
 
 ![](maslow_z_axis_stock.png)
 
