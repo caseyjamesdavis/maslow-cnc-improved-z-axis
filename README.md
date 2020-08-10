@@ -1,26 +1,26 @@
 ### This repo details my efforts towards improving the Z-axis of a [Maslow CNC Machine](https://www.maslowcnc.com/)
 
-I purchased my Maslow kit from [MAKER MADE](https://makermade.com/).  This is what the original z-axis looks like.
+I purchased my Maslow kit from [MAKER MADE](https://makermade.com/).  This is what the original z-axis looks like.  It uses the manual height adjustment mechanism of the router holder for moving the bit in and out of the wood.
 
 ![](maslow_z_axis_stock.png)
 
-I decided to use the OPENBUILDS [250mm C-Beam Linear Actuator](https://openbuildspartstore.com/c-beam-linear-actuator-bundle/) as the basis for my Z-axis.  There is no need to purchase the stepper motor as it will not work with the Maslow.
+I decided to use the OPENBUILDS [250mm C-Beam Linear Actuator](https://openbuildspartstore.com/c-beam-linear-actuator-bundle/) as the basis for the new Z-axis.  There is no need to purchase the stepper motor as it will not work with the Maslow.
 
 ![](openbuilds_c_frame_actuator.png)
 
-Here is what the new z-axis looks like.
+Here is what the new z-axis looks like.  A 500[mm] long actuator was intially used because there were not any 250[mm] models available.
 
 ![](maslow_z_axis_improved.png)
 
 
 #### Pros
-* router moves repeatably and accurately in the Z-direction
+* router moves repeatably and accurately in the z-direction
 * router no longer shifts in the x and y-directions when moving in the z-direction
 * router now moves 4x faster in the z-direction
 
 #### Cons
 * cost ~$150
-* alignment
+* initial alignment
 * dust collection
 
 
