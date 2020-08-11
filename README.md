@@ -90,7 +90,7 @@ Below are the three main components that need to be 3D printed.  The CAD data su
 <br/>
 
 ## Miscellaneous Hardware:
-* 16 plastic [M3 T-nuts](https://www.thingiverse.com/thing:1064782)(The M3 T-nut STL is included in this repo for completeness)
+* 16 plastic [M3 T-nuts] (https://www.thingiverse.com/thing:1064782)(The M3 T-nut STL is included in this repo for completeness)
 * 16 M3 nuts to press into T-nuts
 * 16 M3 x TBD bolts for motor mount and brace
 * 4 TBD x TBD bolts to secure router clamp to carriage
