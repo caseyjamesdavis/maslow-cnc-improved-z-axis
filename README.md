@@ -41,22 +41,22 @@ I decided to use the OPENBUILDS [250mm C-Beam Linear Actuator](https://openbuild
 
 
 ## DIY Components
-Below are the three main components that need to be 3D printed.  
+Below are the three main components that need to be 3D printed.  The CAD data supplied can be opened with [FreeCAD V0.19](https://www.freecadweb.org/) and the fantastic [Assembly 4 Workbench](https://github.com/Zolko-123/FreeCAD_Assembly4).
+ <br/>
  
-### Router Clamp
+### 1.0 Router Clamp
 ![](maslow_z_axis_router_clamp.png)
 *Connects the Rigid R2901 router to the carriage of the linear actuator*
+<br/>
 
-
-### Motor Mount
+### 2.0 Motor Mount
 ![](maslow_z_axis_motor_mount.png)
 *Connects the existing Z-axis motor to the linear actuator* 
+<br/>
 
-### Brace
+### 3.0 Brace
 ![](maslow_z_axis_brace.png)
 *Keeps the z-axis perpendicular to the board*
-
-The CAD data supplied can be opened with [FreeCAD V0.19](https://www.freecadweb.org/) and the fantastic [Assembly 4 Workbench](https://github.com/Zolko-123/FreeCAD_Assembly4).
 
 <br/>
 <br/>
