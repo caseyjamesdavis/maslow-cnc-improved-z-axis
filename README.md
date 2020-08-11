@@ -10,13 +10,16 @@
 * Router now moves about 2.5x faster in the z-direction
 
 #### Cons
-* High cost relative to kit (~$150)
-* Initial alignment
+* Alignment of router and actuator logitudinal axes
 * Complicates dust collection
+* High cost relative to kit (~$150)
+* Can't adjust carriage wheel preload eccentrics without actuator disassembly
+* Can't adjust lead screw nut backlash without actuator disassembly
 
 <br/>
 <br/>
 
+#### Background
 I purchased my Maslow kit from [MAKER MADE](https://makermade.com/).  The kit is well made, well documented and is a breeze to setup.  The only complaint I had with the system was the sloppy z-axis.  
 
 This is what the original z-axis looks like.  It uses the manual height adjustment mechanism of the router holder for moving the router and bit in and out of the wood. This is a well known issue and has been fixed in recent M2 versions of the kit.
@@ -26,6 +29,7 @@ This is what the original z-axis looks like.  It uses the manual height adjustme
 <br/>
 <br/>
 
+#### Design
 I decided to use the OPENBUILDS [250mm C-Beam Linear Actuator](https://openbuildspartstore.com/c-beam-linear-actuator-bundle/) as the basis for the new Z-axis.  There is no need to purchase the stepper motor as it will not work with the Maslow.
 
 ![](openbuilds_c_frame_actuator.png)
