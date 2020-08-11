@@ -20,7 +20,7 @@
 <br/>
 
 ## Background
-I purchased my Maslow kit from [MAKER MADE](https://makermade.com/).  The kit is well made, well documented and is east to setup.  The only complaint I had with the system was the sloppy z-axis.  
+I purchased my Maslow kit from [MAKER MADE](https://makermade.com/).  The kit is well made, well documented and is easy to setup.  The only complaint I had with the system was the sloppy z-axis.  
 
 ![](maslow_z_axis_stock.png)
 
