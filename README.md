@@ -2,14 +2,14 @@
 
 ![](maslow_z_axis_improved.png)
 
- *Note: A 500[mm] long actuator was intially used because at the time there were not any 250[mm] models available.*
+ *A 500[mm] long actuator was intially used because at the time there were not any 250[mm] models available.*
 
-#### Pros
+#### Upgrade Pros
 * Router moves repeatably and accurately in the z-direction
 * Router no longer shifts in the x and y-directions when moving in the z-direction
 * Router now moves about 2.5x faster in the z-direction
 
-#### Cons
+#### Upgrade Cons
 * Alignment of router and actuator logitudinal axes
 * Complicates dust collection
 * High cost relative to kit (~$150)
@@ -57,10 +57,11 @@ Below are the three main components that need to be 3D printed.
 
 Miscellaneous:
 * 16 plastic [M3 T-nuts](https://www.thingiverse.com/thing:1064782)(The M3 T-nut STL is included in this repo for completeness)
-* 16 M3 nuts
-* 16 M3 x TBD bolts
+* 16 M3 nuts to press into T-nuts
+* 16 M3 x TBD bolts for motor mount and brace
 * 4 TBD x TBD bolts to secure router clamp to carriage
 * 2 TBD x TBD bolts to close router clamp
+* 2 TBD x TBD bolts to secure end of actuator to sled
 
 The CAD data supplied can be opened with [FreeCAD V0.19](https://www.freecadweb.org/) and the fantastic [Assembly 4 Workbench](https://github.com/Zolko-123/FreeCAD_Assembly4).
 
