@@ -33,8 +33,10 @@ I purchased my Maslow kit from [MAKER MADE](https://makermade.com/).  The kit is
 I decided to use the OPENBUILDS [250mm C-Beam Linear Actuator](https://openbuildspartstore.com/c-beam-linear-actuator-bundle/) as the basis for the new Z-axis.  There is no need to purchase the stepper motor as it will not work with the Maslow.
 
 ![](openbuilds_c_frame_actuator.png)
-
+ 
+ <div align="center">
 *250[mm] C-Beam Linear Actuator CAD data*
+</div>
 
 <br/>
 <br/>
