@@ -20,11 +20,11 @@
 <br/>
 
 # Background
-I purchased my Maslow kit from [MAKER MADE](https://makermade.com/).  The kit is well made, well documented and is a breeze to setup.  The only complaint I had with the system was the sloppy z-axis.  
-
-This is what the original z-axis looks like.  It uses the manual height adjustment mechanism of the router holder for moving the router and bit in and out of the wood. This is a well known issue and has been fixed in recent M2 versions of the kit.
+I purchased my Maslow kit from [MAKER MADE](https://makermade.com/).  The kit is well made, well documented and is east to setup.  The only complaint I had with the system was the sloppy z-axis.  
 
 ![](maslow_z_axis_stock.png)
+
+*Original z-axis that uses the manual height adjustment mechanism of the router holder for moving the router and bit in and out of the wood. This is a well known issue and has been fixed in recent M2 versions of the kit.*
 
 <br/>
 <br/>
@@ -33,6 +33,8 @@ This is what the original z-axis looks like.  It uses the manual height adjustme
 I decided to use the OPENBUILDS [250mm C-Beam Linear Actuator](https://openbuildspartstore.com/c-beam-linear-actuator-bundle/) as the basis for the new Z-axis.  There is no need to purchase the stepper motor as it will not work with the Maslow.
 
 ![](openbuilds_c_frame_actuator.png)
+
+*250[mm] C-Beam Linear Actuator CAD data*
 
 <br/>
 <br/>
