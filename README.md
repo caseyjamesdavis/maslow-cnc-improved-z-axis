@@ -2,7 +2,11 @@
 
 ![](maslow_z_axis_improved.png)
 
+ <div align="center">
+
  *A 500[mm] long actuator was intially used because at the time there were not any 250[mm] models available.*
+ 
+ </div>
 
 #### Upgrade Pros
 * Router moves repeatably and accurately in the z-direction
@@ -34,7 +38,7 @@ I decided to use the OPENBUILDS [250mm C-Beam Linear Actuator](https://openbuild
 
 ![](openbuilds_c_frame_actuator.png)
  
- <div align="center">
+<div align="center">
  
 *250[mm] C-Beam Linear Actuator CAD data*
 
@@ -51,19 +55,36 @@ Below are the three main components that need to be 3D printed.  The CAD data su
  
 ### Router Clamp
 ![](maslow_z_axis_router_clamp.png)
+
+<div align="center">
+
 *Connects the Rigid R2901 router to the carriage of the linear actuator*
+
+</div>
+
 <br/>
 <br/>
 
 ### Motor Mount
 ![](maslow_z_axis_motor_mount.png)
-*Connects the existing Z-axis motor to the linear actuator* 
+
+<div align="center">
+ 
+*Connects the existing Z-axis motor to the linear actuator*
+
+</div>
+
 <br/>
 <br/>
 
 ### Brace
 ![](maslow_z_axis_brace.png)
+
+<div align="center">
+ 
 *Keeps the z-axis perpendicular to the board*
+
+</div>
 
 <br/>
 <br/>
