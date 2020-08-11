@@ -2,7 +2,7 @@
 
 ![](maslow_z_axis_improved.png)
 
- *Note: A 500[mm] long actuator was intially used because there were not any 250[mm] models available.*
+ *Note: A 500[mm] long actuator was intially used because at the time there were not any 250[mm] models available.*
 
 #### Pros
 * Router moves repeatably and accurately in the z-direction
@@ -55,7 +55,12 @@ Below are the three main components that need to be 3D printed.
 
 ![](maslow_z_axis_brace.png)
 
-One will also need to print about 20 of these [M3 T-nuts](https://www.thingiverse.com/thing:1064782).  The M3 T-nut STL is included in this repo for completeness.
+Miscellaneous:
+* 16 plastic [M3 T-nuts](https://www.thingiverse.com/thing:1064782)(The M3 T-nut STL is included in this repo for completeness)
+* 16 M3 nuts
+* 16 M3 x TBD bolts
+* 4 TBD x TBD bolts to secure router clamp to carriage
+* 2 TBD x TBD bolts to close router clamp
 
 The CAD data supplied can be opened with [FreeCAD V0.19](https://www.freecadweb.org/) and the fantastic [Assembly 4 Workbench](https://github.com/Zolko-123/FreeCAD_Assembly4).
 
