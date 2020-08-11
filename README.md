@@ -1,4 +1,4 @@
-### This repo details my efforts towards improving the Z-axis of a [Maslow CNC Machine](https://www.maslowcnc.com/)
+# Improving the Z-axis of a [Maslow CNC Machine](https://www.maslowcnc.com/)
 
 ![](maslow_z_axis_improved.png)
 
@@ -19,7 +19,7 @@
 <br/>
 <br/>
 
-#### Background
+# Background
 I purchased my Maslow kit from [MAKER MADE](https://makermade.com/).  The kit is well made, well documented and is a breeze to setup.  The only complaint I had with the system was the sloppy z-axis.  
 
 This is what the original z-axis looks like.  It uses the manual height adjustment mechanism of the router holder for moving the router and bit in and out of the wood. This is a well known issue and has been fixed in recent M2 versions of the kit.
@@ -29,7 +29,7 @@ This is what the original z-axis looks like.  It uses the manual height adjustme
 <br/>
 <br/>
 
-#### Design
+# Design
 I decided to use the OPENBUILDS [250mm C-Beam Linear Actuator](https://openbuildspartstore.com/c-beam-linear-actuator-bundle/) as the basis for the new Z-axis.  There is no need to purchase the stepper motor as it will not work with the Maslow.
 
 ![](openbuilds_c_frame_actuator.png)
@@ -68,11 +68,11 @@ The CAD data supplied can be opened with [FreeCAD V0.19](https://www.freecadweb.
 <br/>
 <br/>
 
-#### Notes:
+# Notes:
 * The shaft coupler supplied with the actuator kit will work with the Z-axis motor
 * Effective pitch of the new lead screw is 8[mm] (2mm pitch x 4 starts)
 * I use [WebControl](https://github.com/WebControlCNC/WebControl) and calibrate via the ['holey calibration'](https://webcontrolcnc.github.io/WebControl/Actions/Calibration-Setup/holeyCalibration.html) method
 
-#### To do:
+# To do:
 * Add dust collection panels
 * Trim actuator to more reasonable length (TBD)
