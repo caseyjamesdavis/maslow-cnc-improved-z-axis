@@ -1,4 +1,4 @@
-# Improving the Z-axis of a [Maslow CNC Machine](https://www.maslowcnc.com/)
+## Improving the Z-axis of a [Maslow CNC Machine](https://www.maslowcnc.com/)
 
 ![](maslow_z_axis_improved.png)
 
@@ -19,7 +19,7 @@
 <br/>
 <br/>
 
-# Background
+## Background
 I purchased my Maslow kit from [MAKER MADE](https://makermade.com/).  The kit is well made, well documented and is east to setup.  The only complaint I had with the system was the sloppy z-axis.  
 
 ![](maslow_z_axis_stock.png)
@@ -29,7 +29,7 @@ I purchased my Maslow kit from [MAKER MADE](https://makermade.com/).  The kit is
 <br/>
 <br/>
 
-# Design
+## Purchased Components
 I decided to use the OPENBUILDS [250mm C-Beam Linear Actuator](https://openbuildspartstore.com/c-beam-linear-actuator-bundle/) as the basis for the new Z-axis.  There is no need to purchase the stepper motor as it will not work with the Maslow.
 
 ![](openbuilds_c_frame_actuator.png)
@@ -40,24 +40,32 @@ I decided to use the OPENBUILDS [250mm C-Beam Linear Actuator](https://openbuild
 <br/>
 
 
-
+## DIY Components
 Below are the three main components that need to be 3D printed.  
  
-**Router Clamp** - shown in blue, connects the Rigid R2901 router to the carriage of the linear actuator
+### Router Clamp
+Shown in blue, connects the Rigid R2901 router to the carriage of the linear actuator
 
 ![](maslow_z_axis_router_clamp.png)
 
 
-**Motor Mount** - shown in 'green', connects the existing Z-axis motor to the linear actuator 
+### Motor Mount
+Shown in 'green', connects the existing Z-axis motor to the linear actuator 
 
 ![](maslow_z_axis_motor_mount.png)
 
 
-**Brace** - shown in teal, helps keep the z-axis perpendicular to the board 
+### Brace
+Shown in teal, helps keep the z-axis perpendicular to the board 
 
 ![](maslow_z_axis_brace.png)
 
-Miscellaneous:
+The CAD data supplied can be opened with [FreeCAD V0.19](https://www.freecadweb.org/) and the fantastic [Assembly 4 Workbench](https://github.com/Zolko-123/FreeCAD_Assembly4).
+
+<br/>
+<br/>
+
+## Miscellaneous Hardware:
 * 16 plastic [M3 T-nuts](https://www.thingiverse.com/thing:1064782)(The M3 T-nut STL is included in this repo for completeness)
 * 16 M3 nuts to press into T-nuts
 * 16 M3 x TBD bolts for motor mount and brace
@@ -65,16 +73,17 @@ Miscellaneous:
 * 2 TBD x TBD bolts to close router clamp
 * 2 TBD x TBD bolts to secure end of actuator to sled
 
-The CAD data supplied can be opened with [FreeCAD V0.19](https://www.freecadweb.org/) and the fantastic [Assembly 4 Workbench](https://github.com/Zolko-123/FreeCAD_Assembly4).
-
 <br/>
 <br/>
 
-# Notes:
+## Notes:
 * The shaft coupler supplied with the actuator kit will work with the Z-axis motor
 * Effective pitch of the new lead screw is 8[mm] (2mm pitch x 4 starts)
 * I use [WebControl](https://github.com/WebControlCNC/WebControl) and calibrate via the ['holey calibration'](https://webcontrolcnc.github.io/WebControl/Actions/Calibration-Setup/holeyCalibration.html) method
 
-# To do:
+<br/>
+<br/>
+
+## To do:
 * Add dust collection panels
 * Trim actuator to more reasonable length (TBD)
