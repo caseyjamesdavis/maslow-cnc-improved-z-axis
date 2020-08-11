@@ -35,7 +35,9 @@ I decided to use the OPENBUILDS [250mm C-Beam Linear Actuator](https://openbuild
 ![](openbuilds_c_frame_actuator.png)
  
  <div align="center">
+ 
 *250[mm] C-Beam Linear Actuator CAD data*
+
 </div>
 
 <br/>
